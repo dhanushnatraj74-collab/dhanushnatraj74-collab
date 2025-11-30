@@ -53,18 +53,7 @@
 
 
 
-### Quote
----
 
-## 🧩 Developer Note
-
-> _"Learning is a continuous journey — every project brings growth."_  
-
----
-
-## 👁️ Profile View Counter
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=dhanushnatraj74-collab&label=Profile%20Visitors&color=3&icon=2)](https://visitcount.itsvg.in)
 
 ---
 
