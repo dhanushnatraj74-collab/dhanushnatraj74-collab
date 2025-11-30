@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhanush Natraj</h1>
+<h3 align="center">AI & Data Science Student | Python | SQL | Machine Learning | Power BI | PySpark</h3>
 
-<!--
-**dhanushnatraj74-collab/dhanushnatraj74-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Artificial Intelligence and Data Science @ REVA University  
+- 🤖 Interested in: Machine Learning, Data Analytics, AI applications  
+- 🧠 I enjoy solving real-world problems using data and automation  
+- 🌱 Currently learning: PySpark, Deep Learning, NLP  
+- 💼 Actively looking for internship opportunities in Data Science / ML / Data Analytics  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL  
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Data Analytics & BI:** Power BI, Excel  
+- **Other:** Git, Streamlit, Web Scraping, Jupyter Notebook  
+
+---
+
+### 📂 Highlight Projects
+
+- 🩺 **Diabetes Prediction Model** – ML model to predict diabetes using health parameters  
+- 🅿️ **Smart Parking Slot Management System** – Uses data and logic to optimize parking usage  
+- 📊 **Power BI Dashboards** – Interactive dashboards for data insights  
+- ❓ **Quiz Application** – Python-based quiz app with score tracking  
+
+> 🔗 I’ll keep updating this space as I build more projects.
+
+---
+
+### 📊 GitHub Stats (Optional – add later)
+
+<!-- You can enable these after you push more code -->
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanush-natraj-389248386)  
+- 📧 Email: *add your email here*
+
+---
+
+💡 *“Build → Learn → Improve → Repeat.”*
