@@ -1,5 +1,52 @@
-# 💫 About Me:
-<br>Hi 👋, I'm Dhanush Natraj<br>AI & Data Science Student | Python | SQL | Machine Learning | Power BI | PySpark<br>👨‍🎓 About Me<br>🎓 B.Tech in Artificial Intelligence and Data Science @ REVA University<br>🤖 Interested in: Machine Learning, Data Analytics, AI applications<br>🧠 I enjoy solving real-world problems using data and automation<br>🌱 Currently learning: PySpark, Deep Learning, NLP<br>💼 Actively looking for internship opportunities in Data Science / ML / Data Analytics<br>🛠️ Tech Stack<br>Languages: Python, SQL<br>Data & ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn<br>Data Analytics & BI: Power BI, Excel<br>Other: Git, Streamlit, Web Scraping, Jupyter Notebook<br>📂 Highlight Projects<br>🩺 Diabetes Prediction Model – ML model to predict diabetes using health parameters<br>🅿️ Smart Parking Slot Management System – Uses data and logic to optimize parking usage<br>📊 Power BI Dashboards – Interactive dashboards for data insights<br>❓ Quiz Application – Python-based quiz app with score tracking<br>🔗 I’ll keep updating this space as I build more projects.<br><br>📊 GitHub Stats (Optional – add later)<br>📫 Connect with Me<br>💼 LinkedIn<br>📧 Email: dhanushnatraj74@gmail.com
+<h1 align="center">Hi 👋, I'm Dhanush Natraj</h1>
+<h3 align="center">AI & Data Science Student | Python | SQL | Machine Learning | Power BI | PySpark</h3>
+
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 B.Tech in Artificial Intelligence and Data Science @ REVA University  
+- 🤖 Interested in: Machine Learning, Data Analytics, AI applications  
+- 🧠 I enjoy solving real-world problems using data and automation  
+- 🌱 Currently learning: PySpark, Deep Learning, NLP  
+- 💼 Actively looking for internship opportunities in Data Science / ML / Data Analytics  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL  
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Data Analytics & BI:** Power BI, Excel  
+- **Other:** Git, Streamlit, Web Scraping, Jupyter Notebook  
+
+---
+
+### 📂 Highlight Projects
+
+- 🩺 **Diabetes Prediction Model** – ML model to predict diabetes using health parameters  
+- 🅿️ **Smart Parking Slot Management System** – Uses data and logic to optimize parking usage  
+- 📊 **Power BI Dashboards** – Interactive dashboards for data insights  
+- ❓ **Quiz Application** – Python-based quiz app with score tracking  
+
+> 🔗 I’ll keep updating this space as I build more projects.
+
+---
+
+### 📊 GitHub Stats (Optional – add later)
+
+<!-- You can enable these after you push more code -->
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanush-natraj-389248386)  
+- 📧 Email: *add your email here*
+
+---
+
+💡 *“Build → Learn → Improve → Repeat.”*
 
 
 ## 🌐 Socials:
