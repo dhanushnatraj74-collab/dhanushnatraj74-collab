@@ -42,7 +42,8 @@
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhanush-natraj-389248386)  
-- 📧 [Email me](mailto:dhanushnatraj74@gmail.com)
+- 📧 Email: [dhanushnatraj74@gmail.com](mailto:dhanushnatraj74@gmail.com)
+
 
 
 ---
