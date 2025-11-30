@@ -22,12 +22,23 @@
 
 ---
 
-### 📂 Highlight Projects
+## 📂 Projects
 
-- 🩺 **Diabetes Prediction Model** – ML model to predict diabetes using health parameters  
-- 🅿️ **Smart Parking Slot Management System** – Uses data and logic to optimize parking usage  
-- 📊 **Power BI Dashboards** – Interactive dashboards for data insights  
-- ❓ **Quiz Application** – Python-based quiz app with score tracking  
+- 🛍️ **E-Commerce Product Recommendation System (PySpark + ALS)**  
+  *A machine learning-based recommender system deployed with Streamlit.*  
+
+- 🩺 **Diabetes Prediction Model**  
+  *A machine learning model designed to predict diabetes using health parameters.*
+
+- 🅿️ **Smart Parking Slot Management System**  
+  *An automated solution to optimize parking slot allocation using logical sequencing and data handling.*
+
+- 📊 **Power BI Dashboards**  
+  *Interactive dashboards built for business intelligence and data insight visualization.*
+
+- ❓ **Quiz Application**  
+  *A Python-based quiz platform featuring dynamic score tracking and randomized question logic.*
+  
 
 > 🔗 I’ll keep updating this space as I build more projects.
 
