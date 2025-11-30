@@ -54,9 +54,18 @@
 
 
 ### Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 🧩 Developer Note
+
+> _"Learning is a continuous journey — every project brings growth."_  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhanushnatraj74-collab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👁️ Profile View Counter
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=dhanushnatraj74-collab&label=Profile%20Visitors&color=3&icon=2)](https://visitcount.itsvg.in)
+
+---
+
+
