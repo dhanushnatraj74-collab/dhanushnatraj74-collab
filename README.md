@@ -42,11 +42,6 @@
 
 > 🔗 I’ll keep updating this space as I build more projects.
 
----
-
-### 📊 GitHub Stats (Optional – add later)
-
-<!-- You can enable these after you push more code -->
 
 ---
 
